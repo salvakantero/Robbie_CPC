@@ -1,0 +1,50 @@
+ROBBIE STRIKES BACK
+===================
+
+v1.2 (10/05/18) REV:3
+=====================
+01/05/18 - Se limpia la pantalla de sprites al florecer la planta, para que no queden parcialmente borrados
+02/05/18 - Se recortan las sombras de los sprites para que se muestren mejor en monitores de fósforo verde
+02/05/18 - Aumenta la velocidad de gusanos y pulgones
+05/05/18 - Mejora la detección de colisiones
+08/05/18 - Los enemigos resucitan a una distancia segura de Robbie
+10/05/18 - Mejora la sincronización del segundo disparo con respecto al primero
+
+v1.1 (02/01/18) REV:2
+=====================
+02/01/18 - Se repara una incidencia con los marcadores al sobrepasar 9999 puntos
+
+v1.0 (01/01/18)
+===============
+31/12/17 - Pantalla de carga para el CDT
+22/12/17 - Carátula
+05/11/17 - Música SI/NO
+30/10/17 - Robbie no se para mientras dispara
+28/09/17 - Música en menú
+28/09/17 - Música al florecer la planta
+24/09/17 - Mantener la posición de sprays al morir Robbie 
+18/09/17 - Sonidos FX
+19/08/17 - Timing
+02/08/17 - Ciclo del juego (inicio-niveles-game over)
+11/07/17 - Optimizar ancho de la zona de juego
+10/07/17 - Mejorar aleatoriedad
+08/07/17 - Gestión de crecimiento de la planta
+25/06/17 - Gráficos de la planta
+18/06/17 - Gestión de objetos
+11/06/17 - Optimización de la velocidad (se evitan las máscaras, fondo liso)
+22/05/17 - Gráficos de objetos
+21/05/17 - Disparos de Robbie
+14/05/17 - Gestión de vidas restantes, puntos y gameover
+14/05/17 - Sistema de colisiones con los sprites enemigos
+13/05/17 - Generador de enemigos en pantalla
+13/05/17 - 4 instancias de enemigos por pantalla que pueden ser del mismo tipo.
+13/05/17 - Movimiento del sprite gusano
+12/05/17 - Movimiento del sprite pulgón
+12/05/17 - Movimiento del sprite avispón
+09/05/17 - Gráficos de sprites enemigos
+07/05/17 - Paredes detienen a los sprites
+05/05/17 - Diseño definitivo de la zona de marcadores
+05/05/17 - Menú inicial
+03/05/17 - Caracteres gráficos alfanuméricos personalizados
+28/04/17 - Movimientos de Robbie
+28/04/17 - Configurar teclado y Joystick

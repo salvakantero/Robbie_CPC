@@ -1,0 +1,72 @@
+
+===================
+ROBBIE STRIKES BACK
+===================
+Amstrad CPC 464/6128
+
+Robbie el robot, ya jubilado, regresa al jardín décadas después para disfrutar del tiempo libre cultivando su planta favorita, la “Thyrgodian Megga Chrisanthodil”.
+Pero nuevamente el jardín es invadido por un ejército de malvados y oportunistas insectos.
+¡Ahora, como entonces, Robbie está preparado! 
+
+Con menos aceite en sus engranajes, pero la misma determinación, está equipado con tres mortíferos insecticidas con los que mantendrá a raya a todo bicho viviente.
+
+Para ello debe rociar con el spray adecuado a los insectos que se aproximen a las plantas.
+Un spray incorrecto sólo los paralizará momentáneamente o no les afectará en absoluto.
+Si Robbie deja su planta desatendida los insectos se la comerán en cuestión de segundos.
+
+¡Observe que en el nivel 5 las plantas que florezcan revelarán el sueño de Robbie! 
+Cada 5 niveles la velocidad de los insectos aumentará.
+
+
+LOS NUEVOS ENEMIGOS:
+
+Gusanos pringosos: Se desplazan lentamente de manera horizontal.
+Son los primeros en aparecer. [35 puntos]
+
+Pulgones peludos: Se mueven muy rápido y en diagonal, barriendo el jardín en segundos. [50 puntos]
+
+Avispones chupadores: Probablemente los más peligrosos, porque irán directamente a por Robbie! [75 puntos]
+
+
+LOS OBJETOS:
+
+Matamoscas: Acaba con todos los insectos que merodean por el jardín en ese momento. [100 puntos]
+
+Regadera: Acelera durante unos instantes el crecimiento de la planta. [100 puntos]
+
+Fertilizante: Acelera el crecimiento de la planta el doble de tiempo que la regadera. [100 puntos]
+
+
+CONTROLES DE JUEGO:
+
+Configuración 1		Configuración 2		Configuración 3
+-----------------       -----------------       -----------------
+Q = arriba		W = arriba		Joystick
+A = abajo		S = abajo		M = música SI/NO
+O = izquierda		A = izquierda		X = terminar
+P = derecha		D = derecha
+SPC = disparo		SPC = disparo
+M = música SI/NO	M = música SI/NO
+X = terminar		X = terminar
+
+
+INSTRUCCIONES DE CARGA (CPC464):
+
+1) Reinicie el ordenador presionando las teclas CTRL + SHIFT + ESC a la vez y en este orden.
+
+2) Coloque la cinta de cassette en la grabadora rebobinada desde el principio.
+
+3) Pulse simultáneamente las teclas CTRL + ENTER (la más pequeña). 
+En la pantalla aparecerá el mensaje “PRESS PLAY THEN ANY KEY”. 
+Pulse el botón PLAY de la grabadora y acto seguido cualquier tecla. 
+El programa tardará unos 5 minutos en cargar.
+
+
+ ROBBIE STRIKES BACK! 
+ Copyleft (C) 2017
+
+ SalvaKantero:	Programa, gráficos, sonido FX
+       Beyker:	Música
+  Masterklown:	Carátula
+ Felipe Monge:	Gráficos adicionales
+ Dany Cantero:	Traducciones

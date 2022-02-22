@@ -1,0 +1,18 @@
+ALIAS:
+alias idsk="${CPCT_PATH}/tools/iDSK-0.13/bin/iDSK"
+alias 2cdt="${CPCT_PATH}/tools/2cdt/bin/2cdt"
+
+EXTRAER CARGADOR DEL DSK:
+idsk screen.dsk -g robbie.bas
+
+CREAR ARCHIVO CDT:
+2cdt -n . mycasete.cdt
+
+AÑADIR ARCHIVOS AL CDT:
+2cdt -r robbie robbie.bas mycasete.cdt
+2cdt -r screen.scr -L 0xC000 screen.bin mycasete.cdt
+2cdt -r robbie.bin -L 0x0040 -X 0x5CDE robbie.bin mycasete.cdt
+
+OBTENER POSICION DE INICIO DE MAIN():
+cat robbie.map | grep _main
+
