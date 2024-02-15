@@ -70,3 +70,8 @@ El programa tardará unos 5 minutos en cargar.
   Masterklown:	Carátula
  Felipe Monge:	Gráficos adicionales
  Dany Cantero:	Traducciones
+
+ROBBIE STRIKES BACK está publicado bajo licencia GPL v3 para todos los componentes de software* (ver license.txt).
+* Sin embargo, tenga en cuenta que las ilustraciones utilizadas para la portada NO están publicadas bajo la licencia GPL v3. 
+Estas ilustraciones son propiedad intelectual de Masterklown y están sujetas a condiciones de licencia independientes. 
+Cualquier uso, reproducción o distribución de las ilustraciones debe ser autorizado por Masterklown.
